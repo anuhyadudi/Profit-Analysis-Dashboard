@@ -115,7 +115,8 @@ an underleveraged growth opportunity.
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard Screenshot](screenshot.png)
+![Dashboard Screenshot 1](Dashboard%20Screenshots/Img%201.png)
+![Dashboard Screenshot 2](Dashboard%20Screenshots/Img%202.png)
 
 ---
 
